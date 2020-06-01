@@ -1,0 +1,286 @@
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+D:\(LGU) KGH (8-9-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+D:\(LGU) KGH (8-13-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+D:\(LGU) KGH (8-14-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorDetailsFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.referrerFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.referrerDetailsFrm.resources
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+D:\(LGU) KGH (8-21-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.confirmLogoutFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.confirmLogoutFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorDetailsFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.referrerFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.referrerDetailsFrm.resources
+D:\(LGU) KGH (8-31-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.confirmLogoutFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorDetailsFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.referrerFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.referrerDetailsFrm.resources
+D:\(LGU) KGH (9-12-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.confirmLogoutFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorDetailsFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.referrerFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.referrerDetailsFrm.resources
+D:\(LGU) KGH (9-16-17)\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.confirmLogoutFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorDetailsFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.referrerFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.referrerDetailsFrm.resources
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+C:\Users\John\Desktop\Sql\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.confirmLogoutFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorDetailsFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.referrerFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.referrerDetailsFrm.resources
+C:\Users\John\Desktop\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe.config
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.exe
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.pdb
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.exe
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\bin\Debug\KeanGabriel_RMS_SMS.pdb
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogAddFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.callLogsFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseEditFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.caseFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.casesFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.attentionFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.confirmLogoutFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.informationFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.loginFrm_OnExit.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.ConfirmationForms.warningNullFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.loginFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorDetailsFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.perpetratorFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.referrerFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.selectionFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.statisticsFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimDetailsFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimEditFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Forms.victimFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.Properties.Resources.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.referrerDetailsFrm.resources
+C:\Users\user\Dropbox\Desktop\Downloads\KeanGabriel_RMS_SMS\KeanGabriel_RMS_SMS\obj\Debug\KeanGabriel_RMS_SMS.csproj.GenerateResource.Cache

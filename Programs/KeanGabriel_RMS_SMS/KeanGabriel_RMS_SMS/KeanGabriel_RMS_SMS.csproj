@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE5CE202-B60B-4F2C-9355-0962EECE1E21}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KeanGabriel_RMS_SMS</RootNamespace>
+    <AssemblyName>KeanGabriel_RMS_SMS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\circular_kbh_Rsh_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\dbconnClass.cs" />
+    <Compile Include="Classes\GarbageCollector.cs" />
+    <Compile Include="Forms\addCall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\addCall.Designer.cs">
+      <DependentUpon>addCall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\callLogAddFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\callLogAddFrm.Designer.cs">
+      <DependentUpon>callLogAddFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\callLogsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\callLogsFrm.Designer.cs">
+      <DependentUpon>callLogsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\caseEditFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\caseEditFrm.Designer.cs">
+      <DependentUpon>caseEditFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\caseFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\caseFrm.Designer.cs">
+      <DependentUpon>caseFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\casesFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\casesFrm.Designer.cs">
+      <DependentUpon>casesFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\attentionFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\attentionFrm.Designer.cs">
+      <DependentUpon>attentionFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\confirmLogoutFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\confirmLogoutFrm.Designer.cs">
+      <DependentUpon>confirmLogoutFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\informationFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\informationFrm.Designer.cs">
+      <DependentUpon>informationFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\loginFrm_OnExit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\loginFrm_OnExit.Designer.cs">
+      <DependentUpon>loginFrm_OnExit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\warningNullFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConfirmationForms\warningNullFrm.Designer.cs">
+      <DependentUpon>warningNullFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\loginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\loginFrm.Designer.cs">
+      <DependentUpon>loginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\perpetratorDetailsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\perpetratorDetailsFrm.Designer.cs">
+      <DependentUpon>perpetratorDetailsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\perpetratorFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\perpetratorFrm.Designer.cs">
+      <DependentUpon>perpetratorFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\referrerFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\referrerFrm.Designer.cs">
+      <DependentUpon>referrerFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\selectionFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\selectionFrm.Designer.cs">
+      <DependentUpon>selectionFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\statisticsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\statisticsFrm.Designer.cs">
+      <DependentUpon>statisticsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\victimDetailsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\victimDetailsFrm.Designer.cs">
+      <DependentUpon>victimDetailsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\victimEditFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\victimEditFrm.Designer.cs">
+      <DependentUpon>victimEditFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\victimFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\victimFrm.Designer.cs">
+      <DependentUpon>victimFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keanGabrielDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>keanGabrielDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KGH_LogsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KGH_LogsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\referrerDetailsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\referrerDetailsFrm.Designer.cs">
+      <DependentUpon>referrerDetailsFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\callLogAddFrm.resx">
+      <DependentUpon>callLogAddFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\callLogsFrm.resx">
+      <DependentUpon>callLogsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\caseEditFrm.resx">
+      <DependentUpon>caseEditFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\caseFrm.resx">
+      <DependentUpon>caseFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\casesFrm.resx">
+      <DependentUpon>casesFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConfirmationForms\attentionFrm.resx">
+      <DependentUpon>attentionFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConfirmationForms\confirmLogoutFrm.resx">
+      <DependentUpon>confirmLogoutFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConfirmationForms\InformationFrm.resx">
+      <DependentUpon>informationFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConfirmationForms\loginFrm_OnExit.resx">
+      <DependentUpon>loginFrm_OnExit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConfirmationForms\warningNullFrm.resx">
+      <DependentUpon>warningNullFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\loginFrm.resx">
+      <DependentUpon>loginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\perpetratorDetailsFrm.resx">
+      <DependentUpon>perpetratorDetailsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\perpetratorFrm.resx">
+      <DependentUpon>perpetratorFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\referrerFrm.resx">
+      <DependentUpon>referrerFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\selectionFrm.resx">
+      <DependentUpon>selectionFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\statisticsFrm.resx">
+      <DependentUpon>statisticsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\victimDetailsFrm.resx">
+      <DependentUpon>victimDetailsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\victimEditFrm.resx">
+      <DependentUpon>victimEditFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\victimFrm.resx">
+      <DependentUpon>victimFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\referrerDetailsFrm.resx">
+      <DependentUpon>referrerDetailsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="keanGabrielDBDataSet.xsc">
+      <DependentUpon>keanGabrielDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="keanGabrielDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>keanGabrielDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="keanGabrielDBDataSet.xss">
+      <DependentUpon>keanGabrielDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KGH_LogsDataSet.xsc">
+      <DependentUpon>KGH_LogsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KGH_LogsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KGH_LogsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KGH_LogsDataSet.xss">
+      <DependentUpon>KGH_LogsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circular_KBH.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Textbox_Rounded.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redCont_Rounded.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circular_KBH_OpenBook.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Davao_City_Ph_official_seal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kean-Gabriel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hover_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unHover_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exclamation_AttentionBtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question_AttentionBtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circular_kbh_Rsh_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaseForm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perpetrators.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Victims.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Referrer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CallLogs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cases.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Statistics_circ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hover_CircButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unhover_CircButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hcdc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeCirc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hideCirc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unkown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SearchLog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Statistics.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

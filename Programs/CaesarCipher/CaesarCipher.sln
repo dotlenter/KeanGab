@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{F704EE1B-1393-434A-AD74-4C098E65F67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F704EE1B-1393-434A-AD74-4C098E65F67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F704EE1B-1393-434A-AD74-4C098E65F67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F704EE1B-1393-434A-AD74-4C098E65F67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F704EE1B-1393-434A-AD74-4C098E65F67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
